@@ -1,99 +1,138 @@
-![HTML5](https://img.shields.io/badge/HTML-5-orange)
-
-![CSS3](https://img.shields.io/badge/CSS-3-blue)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-
-![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-success)
-
-![License](https://img.shields.io/badge/License-MIT-green)
-
-
 # 🍅 Pomodoro Timer
 
-A beautiful and responsive Pomodoro Timer built using HTML, CSS and JavaScript.
+<p align="center">
 
-## 📖 About
+A modern, responsive, and customizable **Pomodoro Timer** built using **HTML, CSS, and JavaScript** to help users stay productive using the Pomodoro Technique.
 
-The Pomodoro Technique is a time management method that encourages focused work sessions followed by short breaks to improve productivity.
+[🌐 Live Demo](https://sumit0920.github.io/pomodoro-timer/) • [📌 Roadmap.sh Project](https://roadmap.sh/projects/pomodoro-timer)
 
-This application provides a clean and intuitive interface with customizable session durations, automatic session switching, and progress tracking.
+</p>
+
+---
+
+## 📌 Overview
+
+The **Pomodoro Technique** is a time management method that improves focus by dividing work into dedicated intervals followed by scheduled breaks.
+
+This project implements a clean, responsive, and user-friendly Pomodoro Timer with customizable work sessions, automatic break handling, and session tracking.
+
+---
+
+## ✨ Features
+
+* 🍅 Start, Pause, Resume & Reset Timer
+* ⏱️ Configurable Work Session Duration
+* ☕ Customizable Short Break
+* 🌴 Automatic Long Break After Multiple Sessions
+* 📊 Completed Session Counter
+* ⚙️ Adjustable Timer Settings
+* 📱 Fully Responsive Design
+* ♿ Keyboard Friendly & Accessible
+* 🎨 Modern User Interface
+* 🚀 Lightweight & Fast
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* Git
+* GitHub Pages
 
 ---
 
 ## 🚀 Live Demo
 
-https://sumit0920.github.io/pomodoro-timer/
+**GitHub Pages**
 
-Built as part of the roadmap.sh Frontend Projects, URL : - https://roadmap.sh/projects/pomodoro-timer
+https://github.com/sumit0920/pomodoro-timer.git
 
-## ✨ Features
+---
 
-- Start / Pause / Resume Timer
-- Custom Work Session
-- Short Break
-- Long Break
-- Session Counter
-- Keyboard Friendly
-- Responsive UI
-- Dark Theme
-- Sound Notification
-- Local Storage
+## 📸 Screenshots
 
-## 🛠 Technologies
+### 🖥️ Desktop
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+<img width="1860" height="896" alt="Desktop View" src="https://github.com/user-attachments/assets/a99f62ac-73e4-4b35-89f3-fcc610fc10f8"/>
 
-## 📸 Screenshot
+---
 
-### Desktop View
-<img width="1860" height="896" alt="image" src="https://github.com/user-attachments/assets/a99f62ac-73e4-4b35-89f3-fcc610fc10f8" />
+### 📱 Mobile
 
-### Mobile View
-<img width="1080" height="2236" alt="mobile" src="https://github.com/user-attachments/assets/a1217fda-b64c-4836-8a7e-e8caf39fa96d" />
+<img width="1080" height="2236" alt="Mobile View" src="https://github.com/user-attachments/assets/a1217fda-b64c-4836-8a7e-e8caf39fa96d"/>
+
+---
 
 ## 🎥 Demo
 
-<img width="904" height="908" alt="Recording 2026-06-27 203633" src="https://github.com/user-attachments/assets/b6b3495a-3862-4813-941e-48cdd065022a" />
+<img width="904" height="908" alt="Application Demo" src="https://github.com/user-attachments/assets/b6b3495a-3862-4813-941e-48cdd065022a"/>
 
+---
 
-## 🛠️ Built With
+## 📂 Project Structure
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- Git
-- GitHub
+```text
+pomodoro-timer/
+│
+├── index.html
+├── README.md
+└── assets/
+```
 
-## Installation
+---
 
-git clone ...
+## ⚙️ Getting Started
 
-Open index.html
+Clone the repository
 
-## ⚙️ How It Works
+```bash
+git clone https://github.com/sumit0920/pomodoro-timer.git
+```
+
+Navigate to the project
+
+```bash
+cd pomodoro_timer
+```
+
+Open the project
+
+```text
+index.html
+```
+
+No additional installation or dependencies are required.
+
+---
+
+## 🧠 How It Works
 
 1. Click **Start** to begin a work session.
-2. Focus until the timer reaches zero.
+2. Stay focused until the timer reaches zero.
 3. Take a **Short Break**.
-4. After completing four work sessions, enjoy a **Long Break**.
-5. Repeat the cycle to stay productive.
+4. After every four completed work sessions, a **Long Break** begins automatically.
+5. Repeat the cycle to maximize productivity.
 
-## Future Improvements
+---
 
-- PWA
-- Statistics
-- Weekly Reports
-- Notifications
-- React Version
+## 🚀 Future Enhancements
+
+* 🔔 Sound Notifications
+* 🌙 Dark / Light Theme
+* 💾 Local Storage Support
+* 📊 Daily Productivity Statistics
+* 📈 Weekly Reports
+* ⌨️ Keyboard Shortcuts
+* 📱 Progressive Web App (PWA)
+* ⚛️ React Version
+
+---
 
 ## 🤝 Contributing
 
 Contributions are welcome!
-
-If you would like to improve this project:
 
 1. Fork the repository
 2. Create a new feature branch
@@ -118,9 +157,11 @@ git push origin feature/your-feature
 
 ---
 
-## 🐞 Found a Bug?
+## 🐞 Issues
 
-If you encounter any bugs or have feature suggestions, please open an issue on GitHub.
+Found a bug or have a feature request?
+
+Feel free to open an issue in the repository.
 
 ---
 
@@ -128,9 +169,7 @@ If you encounter any bugs or have feature suggestions, please open an issue on G
 
 **Sumit Sharma**
 
-- GitHub: https://github.com/sumit0920
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
-- Portfolio: https://YOUR-PORTFOLIO
+* GitHub: https://github.com/sumit0920
 
 ---
 
@@ -140,19 +179,19 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## ⭐ Support
+## 🙏 Acknowledgements
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
-It helps others discover the project and motivates further improvements.
+* roadmap.sh
+* Pomodoro Technique
+* GitHub Pages
 
 ---
 
-## 🙌 Acknowledgements
+## ⭐ Support
 
-- roadmap.sh
-- Pomodoro Technique
-- GitHub Pages
+If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
+
+It helps others discover the project and motivates future improvements.
 
 ---
 
